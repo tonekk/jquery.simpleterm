@@ -1,7 +1,10 @@
 jquery.simpleterm
 =================
 
-Give any jQuery element the terminal look!
+[Demo](http://jsfiddle.net/aky622fe/)
+
+## Usage
+
 As always, include js / css, then go:
 
 
@@ -19,6 +22,6 @@ var text = 'I am the terminal content.';
 $('#element').simpleterm(text);
 ```
 
-### Thanks
+## Thanks
 Thanks to https://github.com/nstephens/cssterm for the CSS!
 Yes, I could have forked the project, but as this is a jQuery plugin, I felt it was better to create an own repo.
