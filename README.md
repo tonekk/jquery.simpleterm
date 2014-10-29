@@ -1,6 +1,8 @@
 jquery.simpleterm
 =================
 
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://tonekk.mit-license.org)
+
 [Demo](http://jsfiddle.net/aky622fe/)
 
 ## Usage
